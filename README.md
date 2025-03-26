@@ -7,8 +7,8 @@ Versatile software developer with over a **decade** of experience in **IoT**, **
 - 👯 I’m looking to collaborate on front-end (React), full-stack (MERN), flutter, and IoT 
 - 💬 Ask me about IoT, firmware, web, and mobile development 
 - 📫 How to reach me: [ishantbhurani@gmail.com](mailto:ishantbhurani@gmail.com) 
-- 👨‍💻 All of my projects are available at [https://portfolio-ishant.vercel.app](https://portfolio-ishant.vercel.app)
-- 📄 Know about my experiences: [https://portfolio-ishant.vercel.app/CV.pdf](https://portfolio-ishant.vercel.app/CV.pdf)
+- 👨‍💻 All of my projects are available at [https://ishant.vercel.app](https://ishant.vercel.app)
+- 📄 Know about my experiences: [https://ishant.vercel.app/CV_ISHANT_BHURANI.pdf](https://ishant.vercel.app/CV_ISHANT_BHURANI.pdf)
 
 ## Connect with me
 
